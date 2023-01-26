@@ -10,3 +10,18 @@ a {
    border: 1px solid black;
    padding: 6px 5px 6px; 
 }
+
+#click{
+    border: 10px solid #ff9800;
+    border-radius: 5%;
+    border-width: 9px;
+    height: 30px;
+    text-align: center;
+}
+
+#logo{
+    size: 8px;
+    width: 20%;
+    padding-right: 200px;
+
+}
